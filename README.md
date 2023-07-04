@@ -68,3 +68,18 @@ Elimina un par de palabras de la lista de favoritos. Recibe el par de palabras q
 
 # Screenshots
 
+## Desktop 
+
+![DesktopGenerator](https://github.com/TEODEV7/NamerApp/blob/main/lib/screenshots/desktop.png)
+![DesktopFavorites](https://github.com/TEODEV7/NamerApp/blob/main/lib/screenshots/desktopFavorites.png)
+
+
+## Tablets
+
+![TabletGenerator](https://github.com/TEODEV7/NamerApp/blob/main/lib/screenshots/tablet.png)
+![TabletFavorites](https://github.com/TEODEV7/NamerApp/blob/main/lib/screenshots/tabletFavorites.png)
+
+## Phones
+
+![PhonesGenerator](https://github.com/TEODEV7/NamerApp/blob/main/lib/screenshots/mobile.png)
+![PhoneFavorites](https://github.com/TEODEV7/NamerApp/blob/main/lib/screenshots/mobileFavorites.png)
