@@ -34,7 +34,7 @@ La aplicación utiliza el patrón de estado notificable **ChangeNotifier** para 
 
 ### **void getNext()**
 
-- Inserta el par de palabras actual **current** al inicio de la lista **history**
+- Inserta el par de palabras actual **(current)** al inicio de la lista **history**
 
 - Obtiene la referencia al estado actual de **AnimatedList** utilizando la clave **historyListKey** y lo guarda en la variable **animatedList**
 
@@ -46,7 +46,7 @@ La aplicación utiliza el patrón de estado notificable **ChangeNotifier** para 
 
 ### **void toggleFavorite([WordPair? pair])**
 
-Puede recibir un par de palabras opcional **pair** como argumento, pero si no se proporciona, utiliza el par de palabras actual **current**
+Puede recibir un par de palabras opcional **pair** como argumento, pero si no se proporciona, utiliza el par de palabras actual **(current)**
 
 - Si el par de palabras ya está en la lista de favoritos **(favorites),** lo elimina
 
@@ -70,16 +70,31 @@ Elimina un par de palabras de la lista de favoritos. Recibe el par de palabras q
 
 ## Desktop 
 
+## Screen Generador
+
 ![DesktopGenerator](https://github.com/TEODEV7/NamerApp/blob/main/lib/screenshots/desktop.png)
+
+## Screen Favorites
+
 ![DesktopFavorites](https://github.com/TEODEV7/NamerApp/blob/main/lib/screenshots/desktopFavorites.png)
 
 
 ## Tablets
 
+## Screen Generador
+
 ![TabletGenerator](https://github.com/TEODEV7/NamerApp/blob/main/lib/screenshots/tablet.png)
+
+## Screen Favorites
+
 ![TabletFavorites](https://github.com/TEODEV7/NamerApp/blob/main/lib/screenshots/tabletFavorites.png)
 
 ## Phones
 
+## Screen Generador
+
 ![PhonesGenerator](https://github.com/TEODEV7/NamerApp/blob/main/lib/screenshots/mobile.png)
+
+## Screen Favorites
+
 ![PhoneFavorites](https://github.com/TEODEV7/NamerApp/blob/main/lib/screenshots/mobileFavorites.png)
